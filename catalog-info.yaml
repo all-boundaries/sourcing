@@ -5,6 +5,7 @@ metadata:
   annotations:
     github.com/project-slug: all-boundaries/sourcing
 spec:
-  type: other
-  lifecycle: unknown
+  type: service
+  lifecycle: experimental
   owner: core
+  system: coffee-supply-chain
