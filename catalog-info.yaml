@@ -4,6 +4,7 @@ metadata:
   name: sourcing
   annotations:
     github.com/project-slug: all-boundaries/sourcing
+    backstage.io/source-location: url:https://github.com/all-boundaries/sourcing
 spec:
   type: service
   lifecycle: experimental
